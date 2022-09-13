@@ -14,6 +14,7 @@ Tags (Recommended number of players, campaign setting, recommened average party 
 Instructions to Run Code:
 In terminal:
 - git clone https://github.com/nguyenn8/TheCampaignCompendium.git
+- cd TheCampaignCompendium/
 - npm install
 - npm start
 
