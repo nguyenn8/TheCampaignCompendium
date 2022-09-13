@@ -19,7 +19,7 @@ In terminal:
 - npm start
 
 Once you see line in terminal: 
-- Server is listening on port 3000
+- Server is listening on port 5040
 
-Open in browser type in URL:
-- localhost:3000
+Open in browser and type in URL:
+- localhost:5040
