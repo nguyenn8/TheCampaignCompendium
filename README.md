@@ -17,7 +17,7 @@ In terminal:
 - npm install
 - npm start
 
-Once you see line: 
+Once you see line in terminal: 
 - Server is listening on port 3000
 
 Open in browser type in URL:
