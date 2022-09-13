@@ -10,3 +10,15 @@ A brief summary of the campaign idea (140 characters)
 A picture or map (optional)
 The description (No limit)
 Tags (Recommended number of players, campaign setting, recommened average party level)
+
+Instructions to Run Code:
+In terminal:
+- git clone https://github.com/nguyenn8/TheCampaignCompendium.git
+- npm install
+- npm start
+
+Once you see line: 
+- Server is listening on port 3000
+
+Open in browser type in URL:
+- localhost:3000
