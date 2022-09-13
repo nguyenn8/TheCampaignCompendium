@@ -15,7 +15,7 @@ app.engine('handlebars', exphbs({
     ]}));
 app.set('view engine', 'handlebars');
 
-var port = process.env.PORT || 3000;
+var port = process.env.PORT || 4050;
 
 app.use(bodyParser.json());
 
